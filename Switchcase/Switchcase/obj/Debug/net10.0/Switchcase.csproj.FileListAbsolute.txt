@@ -1,0 +1,15 @@
+D:\L5 SEM_3_2026\Desktop Application Development\Pemba Lama\Switchcase\Switchcase\bin\Debug\net10.0\Switchcase.exe
+D:\L5 SEM_3_2026\Desktop Application Development\Pemba Lama\Switchcase\Switchcase\bin\Debug\net10.0\Switchcase.deps.json
+D:\L5 SEM_3_2026\Desktop Application Development\Pemba Lama\Switchcase\Switchcase\bin\Debug\net10.0\Switchcase.runtimeconfig.json
+D:\L5 SEM_3_2026\Desktop Application Development\Pemba Lama\Switchcase\Switchcase\bin\Debug\net10.0\Switchcase.dll
+D:\L5 SEM_3_2026\Desktop Application Development\Pemba Lama\Switchcase\Switchcase\bin\Debug\net10.0\Switchcase.pdb
+D:\L5 SEM_3_2026\Desktop Application Development\Pemba Lama\Switchcase\Switchcase\obj\Debug\net10.0\Switchcase.GeneratedMSBuildEditorConfig.editorconfig
+D:\L5 SEM_3_2026\Desktop Application Development\Pemba Lama\Switchcase\Switchcase\obj\Debug\net10.0\Switchcase.AssemblyInfoInputs.cache
+D:\L5 SEM_3_2026\Desktop Application Development\Pemba Lama\Switchcase\Switchcase\obj\Debug\net10.0\Switchcase.AssemblyInfo.cs
+D:\L5 SEM_3_2026\Desktop Application Development\Pemba Lama\Switchcase\Switchcase\obj\Debug\net10.0\Switchcase.csproj.CoreCompileInputs.cache
+D:\L5 SEM_3_2026\Desktop Application Development\Pemba Lama\Switchcase\Switchcase\obj\Debug\net10.0\Switchcase.dll
+D:\L5 SEM_3_2026\Desktop Application Development\Pemba Lama\Switchcase\Switchcase\obj\Debug\net10.0\refint\Switchcase.dll
+D:\L5 SEM_3_2026\Desktop Application Development\Pemba Lama\Switchcase\Switchcase\obj\Debug\net10.0\Switchcase.pdb
+D:\L5 SEM_3_2026\Desktop Application Development\Pemba Lama\Switchcase\Switchcase\obj\Debug\net10.0\Switchcase.genruntimeconfig.cache
+D:\L5 SEM_3_2026\Desktop Application Development\Pemba Lama\Switchcase\Switchcase\obj\Debug\net10.0\ref\Switchcase.dll
+D:\L5 SEM_3_2026\Desktop Application Development\Pemba Lama\Switchcase\Switchcase\obj\Debug\net10.0\Switchcase.csproj.Up2Date

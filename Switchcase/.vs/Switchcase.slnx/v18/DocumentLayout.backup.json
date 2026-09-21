@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\L5 SEM_3_2026\\Desktop Application Development\\Pemba Lama\\Switchcase\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6827301F-26A7-4078-A670-13972EC6BF82}|Switchcase\\Switchcase.csproj|d:\\l5 sem_3_2026\\desktop application development\\pemba lama\\switchcase\\switchcase\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6827301F-26A7-4078-A670-13972EC6BF82}|Switchcase\\Switchcase.csproj|solutionrelative:switchcase\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\L5 SEM_3_2026\\Desktop Application Development\\Pemba Lama\\Switchcase\\Switchcase\\Program.cs",
+              "RelativeDocumentMoniker": "Switchcase\\Program.cs",
+              "ToolTip": "D:\\L5 SEM_3_2026\\Desktop Application Development\\Pemba Lama\\Switchcase\\Switchcase\\Program.cs",
+              "RelativeToolTip": "Switchcase\\Program.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwA0AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-15T02:06:57.621Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

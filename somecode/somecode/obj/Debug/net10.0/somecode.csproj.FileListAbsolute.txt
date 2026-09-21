@@ -1,0 +1,4 @@
+D:\L5 SEM_3_2026\Desktop Application Development\Pemba Lama\somecode\somecode\obj\Debug\net10.0\somecode.GeneratedMSBuildEditorConfig.editorconfig
+D:\L5 SEM_3_2026\Desktop Application Development\Pemba Lama\somecode\somecode\obj\Debug\net10.0\somecode.AssemblyInfoInputs.cache
+D:\L5 SEM_3_2026\Desktop Application Development\Pemba Lama\somecode\somecode\obj\Debug\net10.0\somecode.AssemblyInfo.cs
+D:\L5 SEM_3_2026\Desktop Application Development\Pemba Lama\somecode\somecode\obj\Debug\net10.0\somecode.csproj.CoreCompileInputs.cache
