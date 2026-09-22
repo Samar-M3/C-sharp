@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\L5 SEM_3_2026\\Desktop Application Development\\Om\\StudentResultSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2F85E204-CB21-40F2-8697-F42B0496F9A8}|StudentResultSystem\\StudentResultSystem.csproj|d:\\l5 sem_3_2026\\desktop application development\\om\\studentresultsystem\\studentresultsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F85E204-CB21-40F2-8697-F42B0496F9A8}|StudentResultSystem\\StudentResultSystem.csproj|solutionrelative:studentresultsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\L5 SEM_3_2026\\Desktop Application Development\\Om\\StudentResultSystem\\StudentResultSystem\\Program.cs",
+              "RelativeDocumentMoniker": "StudentResultSystem\\Program.cs",
+              "ToolTip": "D:\\L5 SEM_3_2026\\Desktop Application Development\\Om\\StudentResultSystem\\StudentResultSystem\\Program.cs",
+              "RelativeToolTip": "StudentResultSystem\\Program.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAQwBUAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-16T01:48:53.936Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
