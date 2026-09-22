@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\L5 SEM_3_2026\\Desktop Application Development\\Task\\demo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3FFF6221-6C66-4BF6-861B-7D8AD89BE1DD}|demo\\demo.csproj|d:\\l5 sem_3_2026\\desktop application development\\task\\demo\\demo\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FFF6221-6C66-4BF6-861B-7D8AD89BE1DD}|demo\\demo.csproj|solutionrelative:demo\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FFF6221-6C66-4BF6-861B-7D8AD89BE1DD}|demo\\demo.csproj|d:\\l5 sem_3_2026\\desktop application development\\task\\demo\\demo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FFF6221-6C66-4BF6-861B-7D8AD89BE1DD}|demo\\demo.csproj|solutionrelative:demo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FFF6221-6C66-4BF6-861B-7D8AD89BE1DD}|demo\\demo.csproj|d:\\l5 sem_3_2026\\desktop application development\\task\\demo\\demo\\dimensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FFF6221-6C66-4BF6-861B-7D8AD89BE1DD}|demo\\demo.csproj|solutionrelative:demo\\dimensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FFF6221-6C66-4BF6-861B-7D8AD89BE1DD}|demo\\demo.csproj|d:\\l5 sem_3_2026\\desktop application development\\task\\demo\\demo\\sphere.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FFF6221-6C66-4BF6-861B-7D8AD89BE1DD}|demo\\demo.csproj|solutionrelative:demo\\sphere.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Circle.cs",
+              "DocumentMoniker": "D:\\L5 SEM_3_2026\\Desktop Application Development\\Task\\demo\\demo\\Circle.cs",
+              "RelativeDocumentMoniker": "demo\\Circle.cs",
+              "ToolTip": "D:\\L5 SEM_3_2026\\Desktop Application Development\\Task\\demo\\demo\\Circle.cs",
+              "RelativeToolTip": "demo\\Circle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-22T02:06:24.967Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Dimensions.cs",
+              "DocumentMoniker": "D:\\L5 SEM_3_2026\\Desktop Application Development\\Task\\demo\\demo\\Dimensions.cs",
+              "RelativeDocumentMoniker": "demo\\Dimensions.cs",
+              "ToolTip": "D:\\L5 SEM_3_2026\\Desktop Application Development\\Task\\demo\\demo\\Dimensions.cs",
+              "RelativeToolTip": "demo\\Dimensions.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABMAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-22T02:02:07.438Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Sphere.cs",
+              "DocumentMoniker": "D:\\L5 SEM_3_2026\\Desktop Application Development\\Task\\demo\\demo\\Sphere.cs",
+              "RelativeDocumentMoniker": "demo\\Sphere.cs",
+              "ToolTip": "D:\\L5 SEM_3_2026\\Desktop Application Development\\Task\\demo\\demo\\Sphere.cs",
+              "RelativeToolTip": "demo\\Sphere.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-22T01:55:42.838Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\L5 SEM_3_2026\\Desktop Application Development\\Task\\demo\\demo\\Program.cs",
+              "RelativeDocumentMoniker": "demo\\Program.cs",
+              "ToolTip": "D:\\L5 SEM_3_2026\\Desktop Application Development\\Task\\demo\\demo\\Program.cs",
+              "RelativeToolTip": "demo\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-22T01:50:25.801Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

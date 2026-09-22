@@ -1,0 +1,15 @@
+D:\L5 SEM_3_2026\Desktop Application Development\Pemba Lama\Passbyvaalue\Passbyvaalue\bin\Debug\net10.0\Passbyvaalue.exe
+D:\L5 SEM_3_2026\Desktop Application Development\Pemba Lama\Passbyvaalue\Passbyvaalue\bin\Debug\net10.0\Passbyvaalue.deps.json
+D:\L5 SEM_3_2026\Desktop Application Development\Pemba Lama\Passbyvaalue\Passbyvaalue\bin\Debug\net10.0\Passbyvaalue.runtimeconfig.json
+D:\L5 SEM_3_2026\Desktop Application Development\Pemba Lama\Passbyvaalue\Passbyvaalue\bin\Debug\net10.0\Passbyvaalue.dll
+D:\L5 SEM_3_2026\Desktop Application Development\Pemba Lama\Passbyvaalue\Passbyvaalue\bin\Debug\net10.0\Passbyvaalue.pdb
+D:\L5 SEM_3_2026\Desktop Application Development\Pemba Lama\Passbyvaalue\Passbyvaalue\obj\Debug\net10.0\Passbyvaalue.GeneratedMSBuildEditorConfig.editorconfig
+D:\L5 SEM_3_2026\Desktop Application Development\Pemba Lama\Passbyvaalue\Passbyvaalue\obj\Debug\net10.0\Passbyvaalue.AssemblyInfoInputs.cache
+D:\L5 SEM_3_2026\Desktop Application Development\Pemba Lama\Passbyvaalue\Passbyvaalue\obj\Debug\net10.0\Passbyvaalue.AssemblyInfo.cs
+D:\L5 SEM_3_2026\Desktop Application Development\Pemba Lama\Passbyvaalue\Passbyvaalue\obj\Debug\net10.0\Passbyvaalue.csproj.CoreCompileInputs.cache
+D:\L5 SEM_3_2026\Desktop Application Development\Pemba Lama\Passbyvaalue\Passbyvaalue\obj\Debug\net10.0\Passbyvaalue.dll
+D:\L5 SEM_3_2026\Desktop Application Development\Pemba Lama\Passbyvaalue\Passbyvaalue\obj\Debug\net10.0\refint\Passbyvaalue.dll
+D:\L5 SEM_3_2026\Desktop Application Development\Pemba Lama\Passbyvaalue\Passbyvaalue\obj\Debug\net10.0\Passbyvaalue.pdb
+D:\L5 SEM_3_2026\Desktop Application Development\Pemba Lama\Passbyvaalue\Passbyvaalue\obj\Debug\net10.0\Passbyvaalue.genruntimeconfig.cache
+D:\L5 SEM_3_2026\Desktop Application Development\Pemba Lama\Passbyvaalue\Passbyvaalue\obj\Debug\net10.0\ref\Passbyvaalue.dll
+D:\L5 SEM_3_2026\Desktop Application Development\Pemba Lama\Passbyvaalue\Passbyvaalue\obj\Debug\net10.0\Passbyva.DE659E16.Up2Date

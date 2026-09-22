@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "Passbyvaalue/1.0.0": {
+        "runtime": {
+          "Passbyvaalue.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Passbyvaalue/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
