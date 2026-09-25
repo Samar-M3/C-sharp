@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\L5 SEM_3_2026\\Desktop Application Development\\Manish Kumar Tamang\\Divisible\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{83ABB860-AE59-489A-9705-E519F9F34D00}|Divisible\\Divisible.csproj|d:\\l5 sem_3_2026\\desktop application development\\manish kumar tamang\\divisible\\divisible\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83ABB860-AE59-489A-9705-E519F9F34D00}|Divisible\\Divisible.csproj|solutionrelative:divisible\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\L5 SEM_3_2026\\Desktop Application Development\\Manish Kumar Tamang\\Divisible\\Divisible\\Program.cs",
+              "RelativeDocumentMoniker": "Divisible\\Program.cs",
+              "ToolTip": "D:\\L5 SEM_3_2026\\Desktop Application Development\\Manish Kumar Tamang\\Divisible\\Divisible\\Program.cs",
+              "RelativeToolTip": "Divisible\\Program.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwCEAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-15T01:26:52.824Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
