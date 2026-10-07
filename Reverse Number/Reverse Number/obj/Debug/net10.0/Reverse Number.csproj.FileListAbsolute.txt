@@ -1,0 +1,15 @@
+D:\L5 SEM_3_2026\Desktop Application Development\Om\Reverse Number\Reverse Number\bin\Debug\net10.0\Reverse Number.exe
+D:\L5 SEM_3_2026\Desktop Application Development\Om\Reverse Number\Reverse Number\bin\Debug\net10.0\Reverse Number.deps.json
+D:\L5 SEM_3_2026\Desktop Application Development\Om\Reverse Number\Reverse Number\bin\Debug\net10.0\Reverse Number.runtimeconfig.json
+D:\L5 SEM_3_2026\Desktop Application Development\Om\Reverse Number\Reverse Number\bin\Debug\net10.0\Reverse Number.dll
+D:\L5 SEM_3_2026\Desktop Application Development\Om\Reverse Number\Reverse Number\bin\Debug\net10.0\Reverse Number.pdb
+D:\L5 SEM_3_2026\Desktop Application Development\Om\Reverse Number\Reverse Number\obj\Debug\net10.0\Reverse Number.GeneratedMSBuildEditorConfig.editorconfig
+D:\L5 SEM_3_2026\Desktop Application Development\Om\Reverse Number\Reverse Number\obj\Debug\net10.0\Reverse Number.AssemblyInfoInputs.cache
+D:\L5 SEM_3_2026\Desktop Application Development\Om\Reverse Number\Reverse Number\obj\Debug\net10.0\Reverse Number.AssemblyInfo.cs
+D:\L5 SEM_3_2026\Desktop Application Development\Om\Reverse Number\Reverse Number\obj\Debug\net10.0\Reverse Number.csproj.CoreCompileInputs.cache
+D:\L5 SEM_3_2026\Desktop Application Development\Om\Reverse Number\Reverse Number\obj\Debug\net10.0\Reverse Number.dll
+D:\L5 SEM_3_2026\Desktop Application Development\Om\Reverse Number\Reverse Number\obj\Debug\net10.0\refint\Reverse Number.dll
+D:\L5 SEM_3_2026\Desktop Application Development\Om\Reverse Number\Reverse Number\obj\Debug\net10.0\Reverse Number.pdb
+D:\L5 SEM_3_2026\Desktop Application Development\Om\Reverse Number\Reverse Number\obj\Debug\net10.0\Reverse Number.genruntimeconfig.cache
+D:\L5 SEM_3_2026\Desktop Application Development\Om\Reverse Number\Reverse Number\obj\Debug\net10.0\ref\Reverse Number.dll
+D:\L5 SEM_3_2026\Desktop Application Development\Om\Reverse Number\Reverse Number\obj\Debug\net10.0\Reverse .2BE04A6E.Up2Date

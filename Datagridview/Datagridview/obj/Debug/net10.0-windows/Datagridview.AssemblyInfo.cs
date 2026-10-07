@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Datagridview")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+dac4c864e2b3f6cef59b1e155c175017ec7181e2")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5df9698008799054cde8c31254b7fd996d5f1420")]
 [assembly: System.Reflection.AssemblyProductAttribute("Datagridview")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Datagridview")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

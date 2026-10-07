@@ -1,0 +1,15 @@
+D:\L5 SEM_3_2026\Desktop Application Development\Om\sum of natural numbers\sum of natural numbers\obj\Debug\net10.0\sum of natural numbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\L5 SEM_3_2026\Desktop Application Development\Om\sum of natural numbers\sum of natural numbers\obj\Debug\net10.0\sum of natural numbers.AssemblyInfoInputs.cache
+D:\L5 SEM_3_2026\Desktop Application Development\Om\sum of natural numbers\sum of natural numbers\obj\Debug\net10.0\sum of natural numbers.AssemblyInfo.cs
+D:\L5 SEM_3_2026\Desktop Application Development\Om\sum of natural numbers\sum of natural numbers\obj\Debug\net10.0\sum of natural numbers.csproj.CoreCompileInputs.cache
+D:\L5 SEM_3_2026\Desktop Application Development\Om\sum of natural numbers\sum of natural numbers\bin\Debug\net10.0\sum of natural numbers.exe
+D:\L5 SEM_3_2026\Desktop Application Development\Om\sum of natural numbers\sum of natural numbers\bin\Debug\net10.0\sum of natural numbers.deps.json
+D:\L5 SEM_3_2026\Desktop Application Development\Om\sum of natural numbers\sum of natural numbers\bin\Debug\net10.0\sum of natural numbers.runtimeconfig.json
+D:\L5 SEM_3_2026\Desktop Application Development\Om\sum of natural numbers\sum of natural numbers\bin\Debug\net10.0\sum of natural numbers.dll
+D:\L5 SEM_3_2026\Desktop Application Development\Om\sum of natural numbers\sum of natural numbers\bin\Debug\net10.0\sum of natural numbers.pdb
+D:\L5 SEM_3_2026\Desktop Application Development\Om\sum of natural numbers\sum of natural numbers\obj\Debug\net10.0\sum of natural numbers.dll
+D:\L5 SEM_3_2026\Desktop Application Development\Om\sum of natural numbers\sum of natural numbers\obj\Debug\net10.0\refint\sum of natural numbers.dll
+D:\L5 SEM_3_2026\Desktop Application Development\Om\sum of natural numbers\sum of natural numbers\obj\Debug\net10.0\sum of natural numbers.pdb
+D:\L5 SEM_3_2026\Desktop Application Development\Om\sum of natural numbers\sum of natural numbers\obj\Debug\net10.0\sum of natural numbers.genruntimeconfig.cache
+D:\L5 SEM_3_2026\Desktop Application Development\Om\sum of natural numbers\sum of natural numbers\obj\Debug\net10.0\ref\sum of natural numbers.dll
+D:\L5 SEM_3_2026\Desktop Application Development\Om\sum of natural numbers\sum of natural numbers\obj\Debug\net10.0\sum of n.3FC719EF.Up2Date

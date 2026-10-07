@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\L5 SEM_3_2026\\Desktop Application Development\\Task\\books\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9B73EE2A-19AA-0F1F-6233-FD98D26A82D1}|books\\books.csproj|d:\\l5 sem_3_2026\\desktop application development\\task\\books\\books\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B73EE2A-19AA-0F1F-6233-FD98D26A82D1}|books\\books.csproj|solutionrelative:books\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B73EE2A-19AA-0F1F-6233-FD98D26A82D1}|books\\books.csproj|d:\\l5 sem_3_2026\\desktop application development\\task\\books\\books\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B73EE2A-19AA-0F1F-6233-FD98D26A82D1}|books\\books.csproj|solutionrelative:books\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B73EE2A-19AA-0F1F-6233-FD98D26A82D1}|books\\books.csproj|d:\\l5 sem_3_2026\\desktop application development\\task\\books\\books\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9B73EE2A-19AA-0F1F-6233-FD98D26A82D1}|books\\books.csproj|solutionrelative:books\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\L5 SEM_3_2026\\Desktop Application Development\\Task\\books\\books\\books.csproj.user||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:books\\books.csproj.user||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B73EE2A-19AA-0F1F-6233-FD98D26A82D1}|books\\books.csproj|d:\\l5 sem_3_2026\\desktop application development\\task\\books\\books\\books.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{9B73EE2A-19AA-0F1F-6233-FD98D26A82D1}|books\\books.csproj|solutionrelative:books\\books.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B73EE2A-19AA-0F1F-6233-FD98D26A82D1}|books\\books.csproj|d:\\l5 sem_3_2026\\desktop application development\\task\\books\\books\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B73EE2A-19AA-0F1F-6233-FD98D26A82D1}|books\\books.csproj|solutionrelative:books\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\L5 SEM_3_2026\\Desktop Application Development\\Task\\books\\books\\Form1.cs",
+              "RelativeDocumentMoniker": "books\\Form1.cs",
+              "ToolTip": "D:\\L5 SEM_3_2026\\Desktop Application Development\\Task\\books\\books\\Form1.cs [Design]",
+              "RelativeToolTip": "books\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-06T02:11:40.119Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\L5 SEM_3_2026\\Desktop Application Development\\Task\\books\\books\\Program.cs",
+              "RelativeDocumentMoniker": "books\\Program.cs",
+              "ToolTip": "D:\\L5 SEM_3_2026\\Desktop Application Development\\Task\\books\\books\\Program.cs",
+              "RelativeToolTip": "books\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-06T01:42:50.375Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "books.csproj.user",
+              "DocumentMoniker": "D:\\L5 SEM_3_2026\\Desktop Application Development\\Task\\books\\books\\books.csproj.user",
+              "RelativeDocumentMoniker": "books\\books.csproj.user",
+              "ToolTip": "D:\\L5 SEM_3_2026\\Desktop Application Development\\Task\\books\\books\\books.csproj.user",
+              "RelativeToolTip": "books\\books.csproj.user",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003464|",
+              "WhenOpened": "2026-10-06T01:36:15.215Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "D:\\L5 SEM_3_2026\\Desktop Application Development\\Task\\books\\books\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "books\\Form1.Designer.cs",
+              "ToolTip": "D:\\L5 SEM_3_2026\\Desktop Application Development\\Task\\books\\books\\Form1.Designer.cs",
+              "RelativeToolTip": "books\\Form1.Designer.cs",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAIwFQAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-06T01:35:55.08Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\L5 SEM_3_2026\\Desktop Application Development\\Task\\books\\books\\Form1.cs",
+              "RelativeDocumentMoniker": "books\\Form1.cs",
+              "ToolTip": "D:\\L5 SEM_3_2026\\Desktop Application Development\\Task\\books\\books\\Form1.cs",
+              "RelativeToolTip": "books\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-06T01:35:52.476Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "books.csproj",
+              "DocumentMoniker": "D:\\L5 SEM_3_2026\\Desktop Application Development\\Task\\books\\books\\books.csproj",
+              "RelativeDocumentMoniker": "books\\books.csproj",
+              "ToolTip": "D:\\L5 SEM_3_2026\\Desktop Application Development\\Task\\books\\books\\books.csproj",
+              "RelativeToolTip": "books\\books.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-10-06T01:43:00.185Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -46,7 +46,27 @@ namespace Datagridview
 
         }
 
-       
-        
+        private void button2_Click(object sender, EventArgs e)
+        {
+            if (dataGridView1.CurrentRow == null)
+            {
+                MessageBox.Show("Please select a row first.");
+                return;
+            }
+
+            DialogResult result = MessageBox.Show(
+                "Are you sure you want to delete this data?",
+                "Delete",
+                MessageBoxButtons.YesNo,
+                MessageBoxIcon.Warning
+            );
+
+            if (result == DialogResult.Yes)
+            {
+                dataGridView1.Rows.Remove(dataGridView1.CurrentRow);
+
+
+            }
+        }
     }
 }

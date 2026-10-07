@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Test</id>
+    <version>1.0.0</version>
+    <authors>Test</authors>
+    <description>Package Description</description>
+    <repository type="git" />
+    <dependencies>
+      <group targetFramework="net10.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="D:\L5 SEM_3_2026\Desktop Application Development\Manish Kumar Tamang\Test\Test\bin\Debug\net10.0\Test.runtimeconfig.json" target="lib\net10.0\Test.runtimeconfig.json" />
+    <file src="D:\L5 SEM_3_2026\Desktop Application Development\Manish Kumar Tamang\Test\Test\bin\Debug\net10.0\Test.dll" target="lib\net10.0\Test.dll" />
+  </files>
+</package>

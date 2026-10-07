@@ -6,12 +6,13 @@ namespace somecode.Protected
 {
     internal class Human
     {
-        protected int protectedAge { get; set; }
-        protected int publicAge { get; set; }
-        public void DisplayAge()
+        protected int Age { get; set; }
         {
-            this.protectedAge = 25;
-            Console.WriteLine($"Protected Age: {protectedAge}");
+            public int Age { get; set; }
+        public Human(int age)
+        {
+            this.Age = age;
+        }
         }
     }
 }

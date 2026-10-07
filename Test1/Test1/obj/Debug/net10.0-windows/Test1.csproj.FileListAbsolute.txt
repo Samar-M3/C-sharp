@@ -17,3 +17,5 @@ D:\L5 SEM_3_2026\Desktop Application Development\Task\Test1\Test1\obj\Debug\net1
 D:\L5 SEM_3_2026\Desktop Application Development\Task\Test1\Test1\obj\Debug\net10.0-windows\Test1.genruntimeconfig.cache
 D:\L5 SEM_3_2026\Desktop Application Development\Task\Test1\Test1\obj\Debug\net10.0-windows\ref\Test1.dll
 D:\L5 SEM_3_2026\Desktop Application Development\Task\Test1\Test1\obj\Debug\net10.0-windows\Test1.csproj.Up2Date
+D:\L5 SEM_3_2026\Desktop Application Development\Task\Test1\Test1\obj\Debug\net10.0-windows\WinFormsApp1.Form1.resources
+D:\L5 SEM_3_2026\Desktop Application Development\Task\Test1\Test1\obj\Debug\net10.0-windows\WinFormsApp1.userinfo.resources

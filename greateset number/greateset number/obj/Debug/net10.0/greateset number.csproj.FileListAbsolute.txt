@@ -1,0 +1,15 @@
+D:\L5 SEM_3_2026\Desktop Application Development\Om\greateset number\greateset number\bin\Debug\net10.0\greateset number.exe
+D:\L5 SEM_3_2026\Desktop Application Development\Om\greateset number\greateset number\bin\Debug\net10.0\greateset number.deps.json
+D:\L5 SEM_3_2026\Desktop Application Development\Om\greateset number\greateset number\bin\Debug\net10.0\greateset number.runtimeconfig.json
+D:\L5 SEM_3_2026\Desktop Application Development\Om\greateset number\greateset number\bin\Debug\net10.0\greateset number.dll
+D:\L5 SEM_3_2026\Desktop Application Development\Om\greateset number\greateset number\bin\Debug\net10.0\greateset number.pdb
+D:\L5 SEM_3_2026\Desktop Application Development\Om\greateset number\greateset number\obj\Debug\net10.0\greateset number.GeneratedMSBuildEditorConfig.editorconfig
+D:\L5 SEM_3_2026\Desktop Application Development\Om\greateset number\greateset number\obj\Debug\net10.0\greateset number.AssemblyInfoInputs.cache
+D:\L5 SEM_3_2026\Desktop Application Development\Om\greateset number\greateset number\obj\Debug\net10.0\greateset number.AssemblyInfo.cs
+D:\L5 SEM_3_2026\Desktop Application Development\Om\greateset number\greateset number\obj\Debug\net10.0\greateset number.csproj.CoreCompileInputs.cache
+D:\L5 SEM_3_2026\Desktop Application Development\Om\greateset number\greateset number\obj\Debug\net10.0\greateset number.dll
+D:\L5 SEM_3_2026\Desktop Application Development\Om\greateset number\greateset number\obj\Debug\net10.0\refint\greateset number.dll
+D:\L5 SEM_3_2026\Desktop Application Development\Om\greateset number\greateset number\obj\Debug\net10.0\greateset number.pdb
+D:\L5 SEM_3_2026\Desktop Application Development\Om\greateset number\greateset number\obj\Debug\net10.0\greateset number.genruntimeconfig.cache
+D:\L5 SEM_3_2026\Desktop Application Development\Om\greateset number\greateset number\obj\Debug\net10.0\ref\greateset number.dll
+D:\L5 SEM_3_2026\Desktop Application Development\Om\greateset number\greateset number\obj\Debug\net10.0\greatese.382522C4.Up2Date

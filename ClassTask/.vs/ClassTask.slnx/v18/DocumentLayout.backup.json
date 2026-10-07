@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\L5 SEM_3_2026\\Desktop Application Development\\Om\\ClassTask\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0DEDE148-D25B-4D32-BF92-704BC05ED1CA}|ClassTask\\ClassTask.csproj|d:\\l5 sem_3_2026\\desktop application development\\om\\classtask\\classtask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DEDE148-D25B-4D32-BF92-704BC05ED1CA}|ClassTask\\ClassTask.csproj|solutionrelative:classtask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\L5 SEM_3_2026\\Desktop Application Development\\Om\\ClassTask\\ClassTask\\Program.cs",
+              "RelativeDocumentMoniker": "ClassTask\\Program.cs",
+              "ToolTip": "D:\\L5 SEM_3_2026\\Desktop Application Development\\Om\\ClassTask\\ClassTask\\Program.cs",
+              "RelativeToolTip": "ClassTask\\Program.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAADwvxoAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-16T01:31:56.359Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

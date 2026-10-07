@@ -1,10 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\L5 SEM_3_2026\\Desktop Application Development\\Om\\factorial\\",
+  "WorkspaceRootPath": "D:\\L5 SEM_3_2026\\Desktop Application Development\\Task\\factorial\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{69C61F53-9015-4CA2-935D-8604217F33FB}|factorial\\factorial.csproj|d:\\l5 sem_3_2026\\desktop application development\\om\\factorial\\factorial\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{69C61F53-9015-4CA2-935D-8604217F33FB}|factorial\\factorial.csproj|solutionrelative:factorial\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6934BA14-5BF8-85FD-77F0-E17A945ACB01}|factorial\\factorial.csproj|d:\\l5 sem_3_2026\\desktop application development\\task\\factorial\\factorial\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6934BA14-5BF8-85FD-77F0-E17A945ACB01}|factorial\\factorial.csproj|solutionrelative:factorial\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -20,9 +20,9 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\L5 SEM_3_2026\\Desktop Application Development\\Om\\factorial\\factorial\\Program.cs",
+              "DocumentMoniker": "D:\\L5 SEM_3_2026\\Desktop Application Development\\Task\\factorial\\factorial\\Program.cs",
               "RelativeDocumentMoniker": "factorial\\Program.cs",
-              "ToolTip": "D:\\L5 SEM_3_2026\\Desktop Application Development\\Om\\factorial\\factorial\\Program.cs",
+              "ToolTip": "D:\\L5 SEM_3_2026\\Desktop Application Development\\Task\\factorial\\factorial\\Program.cs",
               "RelativeToolTip": "factorial\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",

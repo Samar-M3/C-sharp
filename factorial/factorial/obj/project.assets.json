@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\L5 SEM_3_2026\\Desktop Application Development\\Om\\factorial\\factorial\\factorial.csproj",
+      "projectUniqueName": "D:\\L5 SEM_3_2026\\Desktop Application Development\\Task\\factorial\\factorial\\factorial.csproj",
       "projectName": "factorial",
-      "projectPath": "D:\\L5 SEM_3_2026\\Desktop Application Development\\Om\\factorial\\factorial\\factorial.csproj",
+      "projectPath": "D:\\L5 SEM_3_2026\\Desktop Application Development\\Task\\factorial\\factorial\\factorial.csproj",
       "packagesPath": "C:\\Users\\Asus\\.nuget\\packages\\",
-      "outputPath": "D:\\L5 SEM_3_2026\\Desktop Application Development\\Om\\factorial\\factorial\\obj\\",
+      "outputPath": "D:\\L5 SEM_3_2026\\Desktop Application Development\\Task\\factorial\\factorial\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "D:\\Visual Studio\\Shared\\NuGetPackages"

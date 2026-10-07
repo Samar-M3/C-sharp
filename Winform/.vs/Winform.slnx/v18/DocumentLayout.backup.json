@@ -1,0 +1,243 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\L5 SEM_3_2026\\Desktop Application Development\\Task\\Winform\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ED6366BA-4BEE-0556-16CD-8F1D1BE488CC}|Winform\\Winform.csproj|d:\\l5 sem_3_2026\\desktop application development\\task\\winform\\winform\\clock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED6366BA-4BEE-0556-16CD-8F1D1BE488CC}|Winform\\Winform.csproj|solutionrelative:winform\\clock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED6366BA-4BEE-0556-16CD-8F1D1BE488CC}|Winform\\Winform.csproj|D:\\L5 SEM_3_2026\\Desktop Application Development\\Task\\Winform\\winform\\clock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{ED6366BA-4BEE-0556-16CD-8F1D1BE488CC}|Winform\\Winform.csproj|solutionrelative:winform\\clock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED6366BA-4BEE-0556-16CD-8F1D1BE488CC}|Winform\\Winform.csproj|D:\\L5 SEM_3_2026\\Desktop Application Development\\Task\\Winform\\winform\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{ED6366BA-4BEE-0556-16CD-8F1D1BE488CC}|Winform\\Winform.csproj|solutionrelative:winform\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED6366BA-4BEE-0556-16CD-8F1D1BE488CC}|Winform\\Winform.csproj|d:\\l5 sem_3_2026\\desktop application development\\task\\winform\\winform\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED6366BA-4BEE-0556-16CD-8F1D1BE488CC}|Winform\\Winform.csproj|solutionrelative:winform\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED6366BA-4BEE-0556-16CD-8F1D1BE488CC}|Winform\\Winform.csproj|d:\\l5 sem_3_2026\\desktop application development\\task\\winform\\winform\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED6366BA-4BEE-0556-16CD-8F1D1BE488CC}|Winform\\Winform.csproj|solutionrelative:winform\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED6366BA-4BEE-0556-16CD-8F1D1BE488CC}|Winform\\Winform.csproj|d:\\l5 sem_3_2026\\desktop application development\\task\\winform\\winform\\form3.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED6366BA-4BEE-0556-16CD-8F1D1BE488CC}|Winform\\Winform.csproj|solutionrelative:winform\\form3.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED6366BA-4BEE-0556-16CD-8F1D1BE488CC}|Winform\\Winform.csproj|d:\\l5 sem_3_2026\\desktop application development\\task\\winform\\winform\\userinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED6366BA-4BEE-0556-16CD-8F1D1BE488CC}|Winform\\Winform.csproj|solutionrelative:winform\\userinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED6366BA-4BEE-0556-16CD-8F1D1BE488CC}|Winform\\Winform.csproj|D:\\L5 SEM_3_2026\\Desktop Application Development\\Task\\Winform\\winform\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{ED6366BA-4BEE-0556-16CD-8F1D1BE488CC}|Winform\\Winform.csproj|solutionrelative:winform\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED6366BA-4BEE-0556-16CD-8F1D1BE488CC}|Winform\\Winform.csproj|d:\\l5 sem_3_2026\\desktop application development\\task\\winform\\winform\\userinfo.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED6366BA-4BEE-0556-16CD-8F1D1BE488CC}|Winform\\Winform.csproj|solutionrelative:winform\\userinfo.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DB1C6E5-2A57-4802-905A-66217A72715C}|Winform\\Winform.csproj|D:\\L5 SEM_3_2026\\Desktop Application Development\\Task\\Winform\\winform\\userinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9DB1C6E5-2A57-4802-905A-66217A72715C}|Winform\\Winform.csproj|solutionrelative:winform\\userinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DB1C6E5-2A57-4802-905A-66217A72715C}|Winform\\Winform.csproj|D:\\L5 SEM_3_2026\\Desktop Application Development\\Task\\Winform\\winform\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9DB1C6E5-2A57-4802-905A-66217A72715C}|Winform\\Winform.csproj|solutionrelative:winform\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED6366BA-4BEE-0556-16CD-8F1D1BE488CC}|Winform\\Winform.csproj|d:\\l5 sem_3_2026\\desktop application development\\task\\winform\\winform\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED6366BA-4BEE-0556-16CD-8F1D1BE488CC}|Winform\\Winform.csproj|solutionrelative:winform\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED6366BA-4BEE-0556-16CD-8F1D1BE488CC}|Winform\\Winform.csproj|d:\\l5 sem_3_2026\\desktop application development\\task\\winform\\winform\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED6366BA-4BEE-0556-16CD-8F1D1BE488CC}|Winform\\Winform.csproj|solutionrelative:winform\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED6366BA-4BEE-0556-16CD-8F1D1BE488CC}|Winform\\Winform.csproj|d:\\l5 sem_3_2026\\desktop application development\\task\\winform\\winform\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED6366BA-4BEE-0556-16CD-8F1D1BE488CC}|Winform\\Winform.csproj|solutionrelative:winform\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Clock.cs",
+              "DocumentMoniker": "D:\\L5 SEM_3_2026\\Desktop Application Development\\Task\\Winform\\Winform\\Clock.cs",
+              "RelativeDocumentMoniker": "Winform\\Clock.cs",
+              "ToolTip": "D:\\L5 SEM_3_2026\\Desktop Application Development\\Task\\Winform\\Winform\\Clock.cs*",
+              "RelativeToolTip": "Winform\\Clock.cs*",
+              "ViewState": "AgIAAB4AAAAAAAAAAAASwCMAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-29T02:44:59.37Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Clock.cs [Design]",
+              "DocumentMoniker": "D:\\L5 SEM_3_2026\\Desktop Application Development\\Task\\Winform\\Winform\\Clock.cs",
+              "RelativeDocumentMoniker": "Winform\\Clock.cs",
+              "ToolTip": "D:\\L5 SEM_3_2026\\Desktop Application Development\\Task\\Winform\\Winform\\Clock.cs [Design]",
+              "RelativeToolTip": "Winform\\Clock.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-29T02:42:34.456Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form3.cs",
+              "DocumentMoniker": "D:\\L5 SEM_3_2026\\Desktop Application Development\\Task\\Winform\\Winform\\Form3.cs",
+              "RelativeDocumentMoniker": "Winform\\Form3.cs",
+              "ToolTip": "D:\\L5 SEM_3_2026\\Desktop Application Development\\Task\\Winform\\Winform\\Form3.cs",
+              "RelativeToolTip": "Winform\\Form3.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAiwC8AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-29T02:28:20.041Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form3.cs [Design]",
+              "DocumentMoniker": "D:\\L5 SEM_3_2026\\Desktop Application Development\\Task\\Winform\\Winform\\Form3.cs",
+              "RelativeDocumentMoniker": "Winform\\Form3.cs",
+              "ToolTip": "D:\\L5 SEM_3_2026\\Desktop Application Development\\Task\\Winform\\Winform\\Form3.cs [Design]",
+              "RelativeToolTip": "Winform\\Form3.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-29T02:25:25.983Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form3.Designer.cs",
+              "DocumentMoniker": "D:\\L5 SEM_3_2026\\Desktop Application Development\\Task\\Winform\\Winform\\Form3.Designer.cs",
+              "RelativeDocumentMoniker": "Winform\\Form3.Designer.cs",
+              "ToolTip": "D:\\L5 SEM_3_2026\\Desktop Application Development\\Task\\Winform\\Winform\\Form3.Designer.cs",
+              "RelativeToolTip": "Winform\\Form3.Designer.cs",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAUwEwAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-29T02:24:32.844Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Form2.cs [Design]",
+              "DocumentMoniker": "D:\\L5 SEM_3_2026\\Desktop Application Development\\Task\\Winform\\Winform\\Form2.cs",
+              "RelativeDocumentMoniker": "Winform\\Form2.cs",
+              "ToolTip": "D:\\L5 SEM_3_2026\\Desktop Application Development\\Task\\Winform\\Winform\\Form2.cs [Design]",
+              "RelativeToolTip": "Winform\\Form2.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-29T01:38:15.08Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\L5 SEM_3_2026\\Desktop Application Development\\Task\\Winform\\Winform\\Program.cs",
+              "RelativeDocumentMoniker": "Winform\\Program.cs",
+              "ToolTip": "D:\\L5 SEM_3_2026\\Desktop Application Development\\Task\\Winform\\Winform\\Program.cs",
+              "RelativeToolTip": "Winform\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-29T01:43:47.299Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UserInfo.cs",
+              "DocumentMoniker": "D:\\L5 SEM_3_2026\\Desktop Application Development\\Task\\Winform\\Winform\\UserInfo.cs",
+              "RelativeDocumentMoniker": "Winform\\UserInfo.cs",
+              "ToolTip": "D:\\L5 SEM_3_2026\\Desktop Application Development\\Task\\Winform\\Winform\\UserInfo.cs",
+              "RelativeToolTip": "Winform\\UserInfo.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAArwEcAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-28T05:37:01.131Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "D:\\L5 SEM_3_2026\\Desktop Application Development\\Task\\Winform\\Winform\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Winform\\Form1.Designer.cs",
+              "ToolTip": "D:\\L5 SEM_3_2026\\Desktop Application Development\\Task\\Winform\\Winform\\Form1.Designer.cs",
+              "RelativeToolTip": "Winform\\Form1.Designer.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAzwBIAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-28T06:03:31.896Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UserInfo.cs [Design]",
+              "DocumentMoniker": "D:\\L5 SEM_3_2026\\Desktop Application Development\\Task\\Winform\\Winform\\UserInfo.cs",
+              "RelativeDocumentMoniker": "Winform\\UserInfo.cs",
+              "ToolTip": "D:\\L5 SEM_3_2026\\Desktop Application Development\\Task\\Winform\\Winform\\UserInfo.cs [Design]",
+              "RelativeToolTip": "Winform\\UserInfo.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-28T06:01:19.456Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UserInfo.Designer.cs",
+              "DocumentMoniker": "D:\\L5 SEM_3_2026\\Desktop Application Development\\Task\\Winform\\Winform\\UserInfo.Designer.cs",
+              "RelativeDocumentMoniker": "Winform\\UserInfo.Designer.cs",
+              "ToolTip": "D:\\L5 SEM_3_2026\\Desktop Application Development\\Task\\Winform\\Winform\\UserInfo.Designer.cs",
+              "RelativeToolTip": "Winform\\UserInfo.Designer.cs",
+              "ViewState": "AgIAAP8AAAAAAAAAAAAuwAIBAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-28T05:47:51.017Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Users.cs",
+              "DocumentMoniker": "D:\\L5 SEM_3_2026\\Desktop Application Development\\Task\\Winform\\Winform\\Users.cs",
+              "RelativeDocumentMoniker": "Winform\\Users.cs",
+              "ToolTip": "D:\\L5 SEM_3_2026\\Desktop Application Development\\Task\\Winform\\Winform\\Users.cs",
+              "RelativeToolTip": "Winform\\Users.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-28T05:35:36.137Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\L5 SEM_3_2026\\Desktop Application Development\\Task\\Winform\\Winform\\Form1.cs",
+              "RelativeDocumentMoniker": "Winform\\Form1.cs",
+              "ToolTip": "D:\\L5 SEM_3_2026\\Desktop Application Development\\Task\\Winform\\Winform\\Form1.cs",
+              "RelativeToolTip": "Winform\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAIAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-28T05:15:51.051Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\L5 SEM_3_2026\\Desktop Application Development\\Task\\Winform\\Winform\\Form1.cs",
+              "RelativeDocumentMoniker": "Winform\\Form1.cs",
+              "ToolTip": "D:\\L5 SEM_3_2026\\Desktop Application Development\\Task\\Winform\\Winform\\Form1.cs [Design]",
+              "RelativeToolTip": "Winform\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-28T05:12:54.754Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

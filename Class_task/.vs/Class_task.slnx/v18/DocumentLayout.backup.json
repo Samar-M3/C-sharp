@@ -3,44 +3,56 @@
   "WorkspaceRootPath": "D:\\L5 SEM_3_2026\\Desktop Application Development\\Task\\Class_task\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{29303459-2699-4A1B-B28F-86F9BF2B20CA}|Class_task\\Class_task.csproj|d:\\l5 sem_3_2026\\desktop application development\\task\\class_task\\class_task\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{29303459-2699-4A1B-B28F-86F9BF2B20CA}|Class_task\\Class_task.csproj|solutionrelative:class_task\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8148A7C8-F5D5-9261-3CF6-1AB667EE6D9E}|Class_task\\Class_task.csproj|d:\\l5 sem_3_2026\\desktop application development\\task\\class_task\\class_task\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8148A7C8-F5D5-9261-3CF6-1AB667EE6D9E}|Class_task\\Class_task.csproj|solutionrelative:class_task\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{29303459-2699-4A1B-B28F-86F9BF2B20CA}|Class_task\\Class_task.csproj|d:\\l5 sem_3_2026\\desktop application development\\task\\class_task\\class_task\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{29303459-2699-4A1B-B28F-86F9BF2B20CA}|Class_task\\Class_task.csproj|solutionrelative:class_task\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8148A7C8-F5D5-9261-3CF6-1AB667EE6D9E}|Class_task\\Class_task.csproj|d:\\l5 sem_3_2026\\desktop application development\\task\\class_task\\class_task\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8148A7C8-F5D5-9261-3CF6-1AB667EE6D9E}|Class_task\\Class_task.csproj|solutionrelative:class_task\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{29303459-2699-4A1B-B28F-86F9BF2B20CA}|Class_task\\Class_task.csproj|d:\\l5 sem_3_2026\\desktop application development\\task\\class_task\\class_task\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{29303459-2699-4A1B-B28F-86F9BF2B20CA}|Class_task\\Class_task.csproj|solutionrelative:class_task\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{8148A7C8-F5D5-9261-3CF6-1AB667EE6D9E}|Class_task\\Class_task.csproj|d:\\l5 sem_3_2026\\desktop application development\\task\\class_task\\class_task\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8148A7C8-F5D5-9261-3CF6-1AB667EE6D9E}|Class_task\\Class_task.csproj|solutionrelative:class_task\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{29303459-2699-4A1B-B28F-86F9BF2B20CA}|Class_task\\Class_task.csproj|d:\\l5 sem_3_2026\\desktop application development\\task\\class_task\\class_task\\form3.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{29303459-2699-4A1B-B28F-86F9BF2B20CA}|Class_task\\Class_task.csproj|solutionrelative:class_task\\form3.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8148A7C8-F5D5-9261-3CF6-1AB667EE6D9E}|Class_task\\Class_task.csproj|d:\\l5 sem_3_2026\\desktop application development\\task\\class_task\\class_task\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8148A7C8-F5D5-9261-3CF6-1AB667EE6D9E}|Class_task\\Class_task.csproj|solutionrelative:class_task\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{29303459-2699-4A1B-B28F-86F9BF2B20CA}|Class_task\\Class_task.csproj|d:\\l5 sem_3_2026\\desktop application development\\task\\class_task\\class_task\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{29303459-2699-4A1B-B28F-86F9BF2B20CA}|Class_task\\Class_task.csproj|solutionrelative:class_task\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8148A7C8-F5D5-9261-3CF6-1AB667EE6D9E}|Class_task\\Class_task.csproj|d:\\l5 sem_3_2026\\desktop application development\\task\\class_task\\class_task\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8148A7C8-F5D5-9261-3CF6-1AB667EE6D9E}|Class_task\\Class_task.csproj|solutionrelative:class_task\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{29303459-2699-4A1B-B28F-86F9BF2B20CA}|Class_task\\Class_task.csproj|d:\\l5 sem_3_2026\\desktop application development\\task\\class_task\\class_task\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{29303459-2699-4A1B-B28F-86F9BF2B20CA}|Class_task\\Class_task.csproj|D:\\L5 SEM_3_2026\\Desktop Application Development\\Task\\Class_task\\class_task\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{29303459-2699-4A1B-B28F-86F9BF2B20CA}|Class_task\\Class_task.csproj|solutionrelative:class_task\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{29303459-2699-4A1B-B28F-86F9BF2B20CA}|Class_task\\Class_task.csproj|d:\\l5 sem_3_2026\\desktop application development\\task\\class_task\\class_task\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{29303459-2699-4A1B-B28F-86F9BF2B20CA}|Class_task\\Class_task.csproj|solutionrelative:class_task\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8148A7C8-F5D5-9261-3CF6-1AB667EE6D9E}|Class_task\\Class_task.csproj|d:\\l5 sem_3_2026\\desktop application development\\task\\class_task\\class_task\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8148A7C8-F5D5-9261-3CF6-1AB667EE6D9E}|Class_task\\Class_task.csproj|solutionrelative:class_task\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{29303459-2699-4A1B-B28F-86F9BF2B20CA}|Class_task\\Class_task.csproj|d:\\l5 sem_3_2026\\desktop application development\\task\\class_task\\class_task\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{8148A7C8-F5D5-9261-3CF6-1AB667EE6D9E}|Class_task\\Class_task.csproj|d:\\l5 sem_3_2026\\desktop application development\\task\\class_task\\class_task\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8148A7C8-F5D5-9261-3CF6-1AB667EE6D9E}|Class_task\\Class_task.csproj|solutionrelative:class_task\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8148A7C8-F5D5-9261-3CF6-1AB667EE6D9E}|Class_task\\Class_task.csproj|d:\\l5 sem_3_2026\\desktop application development\\task\\class_task\\class_task\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8148A7C8-F5D5-9261-3CF6-1AB667EE6D9E}|Class_task\\Class_task.csproj|solutionrelative:class_task\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29303459-2699-4A1B-B28F-86F9BF2B20CA}|Class_task\\Class_task.csproj|D:\\L5 SEM_3_2026\\Desktop Application Development\\Task\\Class_task\\class_task\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{29303459-2699-4A1B-B28F-86F9BF2B20CA}|Class_task\\Class_task.csproj|solutionrelative:class_task\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29303459-2699-4A1B-B28F-86F9BF2B20CA}|Class_task\\Class_task.csproj|D:\\L5 SEM_3_2026\\Desktop Application Development\\Task\\Class_task\\class_task\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{29303459-2699-4A1B-B28F-86F9BF2B20CA}|Class_task\\Class_task.csproj|solutionrelative:class_task\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29303459-2699-4A1B-B28F-86F9BF2B20CA}|Class_task\\Class_task.csproj|D:\\L5 SEM_3_2026\\Desktop Application Development\\Task\\Class_task\\class_task\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{29303459-2699-4A1B-B28F-86F9BF2B20CA}|Class_task\\Class_task.csproj|solutionrelative:class_task\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{29303459-2699-4A1B-B28F-86F9BF2B20CA}|Class_task\\Class_task.csproj|d:\\l5 sem_3_2026\\desktop application development\\task\\class_task\\class_task\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{29303459-2699-4A1B-B28F-86F9BF2B20CA}|Class_task\\Class_task.csproj|solutionrelative:class_task\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{29303459-2699-4A1B-B28F-86F9BF2B20CA}|Class_task\\Class_task.csproj|d:\\l5 sem_3_2026\\desktop application development\\task\\class_task\\class_task\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{29303459-2699-4A1B-B28F-86F9BF2B20CA}|Class_task\\Class_task.csproj|solutionrelative:class_task\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{8148A7C8-F5D5-9261-3CF6-1AB667EE6D9E}|Class_task\\Class_task.csproj|d:\\l5 sem_3_2026\\desktop application development\\task\\class_task\\class_task\\form3.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8148A7C8-F5D5-9261-3CF6-1AB667EE6D9E}|Class_task\\Class_task.csproj|solutionrelative:class_task\\form3.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -54,26 +66,75 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Form3.Designer.cs",
-              "DocumentMoniker": "D:\\L5 SEM_3_2026\\Desktop Application Development\\Task\\Class_task\\Class_task\\Form3.Designer.cs",
-              "RelativeDocumentMoniker": "Class_task\\Form3.Designer.cs",
-              "ToolTip": "D:\\L5 SEM_3_2026\\Desktop Application Development\\Task\\Class_task\\Class_task\\Form3.Designer.cs",
-              "RelativeToolTip": "Class_task\\Form3.Designer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "Form4.cs [Design]",
+              "DocumentMoniker": "D:\\L5 SEM_3_2026\\Desktop Application Development\\Task\\Class_task\\Class_task\\Form4.cs",
+              "RelativeDocumentMoniker": "Class_task\\Form4.cs",
+              "ToolTip": "D:\\L5 SEM_3_2026\\Desktop Application Development\\Task\\Class_task\\Class_task\\Form4.cs [Design]",
+              "RelativeToolTip": "Class_task\\Form4.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-30T02:10:10.709Z",
+              "WhenOpened": "2026-09-30T02:55:57.623Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form3.cs",
+              "DocumentMoniker": "D:\\L5 SEM_3_2026\\Desktop Application Development\\Task\\Class_task\\Class_task\\Form3.cs",
+              "RelativeDocumentMoniker": "Class_task\\Form3.cs",
+              "ToolTip": "D:\\L5 SEM_3_2026\\Desktop Application Development\\Task\\Class_task\\Class_task\\Form3.cs",
+              "RelativeToolTip": "Class_task\\Form3.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-30T01:57:18.574Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\L5 SEM_3_2026\\Desktop Application Development\\Task\\Class_task\\Class_task\\Program.cs",
+              "RelativeDocumentMoniker": "Class_task\\Program.cs",
+              "ToolTip": "D:\\L5 SEM_3_2026\\Desktop Application Development\\Task\\Class_task\\Class_task\\Program.cs",
+              "RelativeToolTip": "Class_task\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-30T01:51:20.479Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form2.cs",
+              "DocumentMoniker": "D:\\L5 SEM_3_2026\\Desktop Application Development\\Task\\Class_task\\Class_task\\Form2.cs",
+              "RelativeDocumentMoniker": "Class_task\\Form2.cs",
+              "ToolTip": "D:\\L5 SEM_3_2026\\Desktop Application Development\\Task\\Class_task\\Class_task\\Form2.cs",
+              "RelativeToolTip": "Class_task\\Form2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-30T01:48:19.023Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\L5 SEM_3_2026\\Desktop Application Development\\Task\\Class_task\\Class_task\\Form1.cs",
+              "RelativeDocumentMoniker": "Class_task\\Form1.cs",
+              "ToolTip": "D:\\L5 SEM_3_2026\\Desktop Application Development\\Task\\Class_task\\Class_task\\Form1.cs [Design]",
+              "RelativeToolTip": "Class_task\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-30T01:37:08.202Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "Form4.cs",
               "DocumentMoniker": "D:\\L5 SEM_3_2026\\Desktop Application Development\\Task\\Class_task\\Class_task\\Form4.cs",
               "RelativeDocumentMoniker": "Class_task\\Form4.cs",
               "ToolTip": "D:\\L5 SEM_3_2026\\Desktop Application Development\\Task\\Class_task\\Class_task\\Form4.cs",
               "RelativeToolTip": "Class_task\\Form4.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAuwAgAAAAUAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-09-30T02:05:12.783Z",
               "EditorCaption": ""
@@ -87,81 +148,17 @@
               "ToolTip": "D:\\L5 SEM_3_2026\\Desktop Application Development\\Task\\Class_task\\Class_task\\Form4.cs [Design]",
               "RelativeToolTip": "Class_task\\Form4.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-30T02:02:06.788Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2026-09-30T02:02:06.788Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Form3.cs",
-              "DocumentMoniker": "D:\\L5 SEM_3_2026\\Desktop Application Development\\Task\\Class_task\\Class_task\\Form3.cs",
-              "RelativeDocumentMoniker": "Class_task\\Form3.cs",
-              "ToolTip": "D:\\L5 SEM_3_2026\\Desktop Application Development\\Task\\Class_task\\Class_task\\Form3.cs",
-              "RelativeToolTip": "Class_task\\Form3.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAlwBQAAAAiAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-30T01:57:18.574Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Form3.cs [Design]",
-              "DocumentMoniker": "D:\\L5 SEM_3_2026\\Desktop Application Development\\Task\\Class_task\\Class_task\\Form3.cs",
-              "RelativeDocumentMoniker": "Class_task\\Form3.cs",
-              "ToolTip": "D:\\L5 SEM_3_2026\\Desktop Application Development\\Task\\Class_task\\Class_task\\Form3.cs [Design]",
-              "RelativeToolTip": "Class_task\\Form3.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-30T01:54:11.535Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\L5 SEM_3_2026\\Desktop Application Development\\Task\\Class_task\\Class_task\\Program.cs",
-              "RelativeDocumentMoniker": "Class_task\\Program.cs",
-              "ToolTip": "D:\\L5 SEM_3_2026\\Desktop Application Development\\Task\\Class_task\\Class_task\\Program.cs",
-              "RelativeToolTip": "Class_task\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-30T01:51:20.479Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Form2.cs",
-              "DocumentMoniker": "D:\\L5 SEM_3_2026\\Desktop Application Development\\Task\\Class_task\\Class_task\\Form2.cs",
-              "RelativeDocumentMoniker": "Class_task\\Form2.cs",
-              "ToolTip": "D:\\L5 SEM_3_2026\\Desktop Application Development\\Task\\Class_task\\Class_task\\Form2.cs",
-              "RelativeToolTip": "Class_task\\Form2.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-30T01:48:19.023Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Form2.cs [Design]",
-              "DocumentMoniker": "D:\\L5 SEM_3_2026\\Desktop Application Development\\Task\\Class_task\\Class_task\\Form2.cs",
-              "RelativeDocumentMoniker": "Class_task\\Form2.cs",
-              "ToolTip": "D:\\L5 SEM_3_2026\\Desktop Application Development\\Task\\Class_task\\Class_task\\Form2.cs [Design]",
-              "RelativeToolTip": "Class_task\\Form2.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-30T01:45:38.201Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 4,
               "Title": "Form1.cs",
               "DocumentMoniker": "D:\\L5 SEM_3_2026\\Desktop Application Development\\Task\\Class_task\\Class_task\\Form1.cs",
               "RelativeDocumentMoniker": "Class_task\\Form1.cs",
               "ToolTip": "D:\\L5 SEM_3_2026\\Desktop Application Development\\Task\\Class_task\\Class_task\\Form1.cs",
               "RelativeToolTip": "Class_task\\Form1.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAhwBIAAAAoAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-09-30T01:39:55.551Z",
               "EditorCaption": ""
@@ -169,14 +166,61 @@
             {
               "$type": "Document",
               "DocumentIndex": 9,
+              "Title": "Form3.cs [Design]",
+              "DocumentMoniker": "D:\\L5 SEM_3_2026\\Desktop Application Development\\Task\\Class_task\\Class_task\\Form3.cs",
+              "RelativeDocumentMoniker": "Class_task\\Form3.cs",
+              "ToolTip": "D:\\L5 SEM_3_2026\\Desktop Application Development\\Task\\Class_task\\Class_task\\Form3.cs [Design]",
+              "RelativeToolTip": "Class_task\\Form3.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-30T01:54:11.535Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "D:\\L5 SEM_3_2026\\Desktop Application Development\\Task\\Class_task\\Class_task\\Form1.cs",
               "RelativeDocumentMoniker": "Class_task\\Form1.cs",
               "ToolTip": "D:\\L5 SEM_3_2026\\Desktop Application Development\\Task\\Class_task\\Class_task\\Form1.cs [Design]",
               "RelativeToolTip": "Class_task\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-30T01:37:08.202Z",
+              "WhenOpened": "2026-09-30T02:48:37.123Z",
               "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Form3.cs [Design]",
+              "DocumentMoniker": "D:\\L5 SEM_3_2026\\Desktop Application Development\\Task\\Class_task\\Class_task\\Form3.cs",
+              "RelativeDocumentMoniker": "Class_task\\Form3.cs",
+              "ToolTip": "D:\\L5 SEM_3_2026\\Desktop Application Development\\Task\\Class_task\\Class_task\\Form3.cs [Design]",
+              "RelativeToolTip": "Class_task\\Form3.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-30T02:54:26.047Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Form3.Designer.cs",
+              "DocumentMoniker": "D:\\L5 SEM_3_2026\\Desktop Application Development\\Task\\Class_task\\Class_task\\Form3.Designer.cs",
+              "RelativeDocumentMoniker": "Class_task\\Form3.Designer.cs",
+              "ToolTip": "D:\\L5 SEM_3_2026\\Desktop Application Development\\Task\\Class_task\\Class_task\\Form3.Designer.cs",
+              "RelativeToolTip": "Class_task\\Form3.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-30T02:10:10.709Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Form2.cs [Design]",
+              "DocumentMoniker": "D:\\L5 SEM_3_2026\\Desktop Application Development\\Task\\Class_task\\Class_task\\Form2.cs",
+              "RelativeDocumentMoniker": "Class_task\\Form2.cs",
+              "ToolTip": "D:\\L5 SEM_3_2026\\Desktop Application Development\\Task\\Class_task\\Class_task\\Form2.cs [Design]",
+              "RelativeToolTip": "Class_task\\Form2.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-30T01:45:38.201Z"
             }
           ]
         }
