@@ -46,7 +46,6 @@ namespace books
             }
         }
 
-
         // INSERT RECORD
         private void insert_Click(object sender, EventArgs e)
         {

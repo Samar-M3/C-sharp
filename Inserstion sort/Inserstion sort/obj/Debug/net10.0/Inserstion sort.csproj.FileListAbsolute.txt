@@ -1,0 +1,15 @@
+D:\L5 SEM_3_2026\Desktop Application Development\Assignment\Inserstion sort\Inserstion sort\bin\Debug\net10.0\Inserstion sort.exe
+D:\L5 SEM_3_2026\Desktop Application Development\Assignment\Inserstion sort\Inserstion sort\bin\Debug\net10.0\Inserstion sort.deps.json
+D:\L5 SEM_3_2026\Desktop Application Development\Assignment\Inserstion sort\Inserstion sort\bin\Debug\net10.0\Inserstion sort.runtimeconfig.json
+D:\L5 SEM_3_2026\Desktop Application Development\Assignment\Inserstion sort\Inserstion sort\bin\Debug\net10.0\Inserstion sort.dll
+D:\L5 SEM_3_2026\Desktop Application Development\Assignment\Inserstion sort\Inserstion sort\bin\Debug\net10.0\Inserstion sort.pdb
+D:\L5 SEM_3_2026\Desktop Application Development\Assignment\Inserstion sort\Inserstion sort\obj\Debug\net10.0\Inserstion sort.GeneratedMSBuildEditorConfig.editorconfig
+D:\L5 SEM_3_2026\Desktop Application Development\Assignment\Inserstion sort\Inserstion sort\obj\Debug\net10.0\Inserstion sort.AssemblyInfoInputs.cache
+D:\L5 SEM_3_2026\Desktop Application Development\Assignment\Inserstion sort\Inserstion sort\obj\Debug\net10.0\Inserstion sort.AssemblyInfo.cs
+D:\L5 SEM_3_2026\Desktop Application Development\Assignment\Inserstion sort\Inserstion sort\obj\Debug\net10.0\Inserstion sort.csproj.CoreCompileInputs.cache
+D:\L5 SEM_3_2026\Desktop Application Development\Assignment\Inserstion sort\Inserstion sort\obj\Debug\net10.0\Inserstion sort.dll
+D:\L5 SEM_3_2026\Desktop Application Development\Assignment\Inserstion sort\Inserstion sort\obj\Debug\net10.0\refint\Inserstion sort.dll
+D:\L5 SEM_3_2026\Desktop Application Development\Assignment\Inserstion sort\Inserstion sort\obj\Debug\net10.0\Inserstion sort.pdb
+D:\L5 SEM_3_2026\Desktop Application Development\Assignment\Inserstion sort\Inserstion sort\obj\Debug\net10.0\Inserstion sort.genruntimeconfig.cache
+D:\L5 SEM_3_2026\Desktop Application Development\Assignment\Inserstion sort\Inserstion sort\obj\Debug\net10.0\ref\Inserstion sort.dll
+D:\L5 SEM_3_2026\Desktop Application Development\Assignment\Inserstion sort\Inserstion sort\obj\Debug\net10.0\Insersti.AFCDA975.Up2Date

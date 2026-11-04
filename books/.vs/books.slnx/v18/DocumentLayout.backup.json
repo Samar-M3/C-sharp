@@ -11,7 +11,7 @@
       "RelativeMoniker": "D:0:0:{9B73EE2A-19AA-0F1F-6233-FD98D26A82D1}|books\\books.csproj|solutionrelative:books\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9B73EE2A-19AA-0F1F-6233-FD98D26A82D1}|books\\books.csproj|d:\\l5 sem_3_2026\\desktop application development\\task\\books\\books\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{9B73EE2A-19AA-0F1F-6233-FD98D26A82D1}|books\\books.csproj|D:\\L5 SEM_3_2026\\Desktop Application Development\\Task\\books\\books\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{9B73EE2A-19AA-0F1F-6233-FD98D26A82D1}|books\\books.csproj|solutionrelative:books\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
@@ -86,8 +86,7 @@
               "RelativeToolTip": "books\\Form1.Designer.cs",
               "ViewState": "AgIAAEIAAAAAAAAAAAAIwFQAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-06T01:35:55.08Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-06T01:35:55.08Z"
             },
             {
               "$type": "Document",
@@ -97,7 +96,7 @@
               "RelativeDocumentMoniker": "books\\Form1.cs",
               "ToolTip": "D:\\L5 SEM_3_2026\\Desktop Application Development\\Task\\books\\books\\Form1.cs",
               "RelativeToolTip": "books\\Form1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAeAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-10-06T01:35:52.476Z",
               "EditorCaption": ""
